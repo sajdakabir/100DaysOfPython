@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "QUEUE.C": "cpp",
+        "QUEUE_LINKEDLIST.C": "cpp"
+    }
+}
